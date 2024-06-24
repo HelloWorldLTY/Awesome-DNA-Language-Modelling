@@ -122,16 +122,10 @@ Papers are ranked randomly.
   [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/DennisGankin/species-aware-DNA-LM)
   [![Stars](https://img.shields.io/github/stars/DennisGankin/species-aware-DNA-LM?color=yellow&style=social)](https://github.com/DennisGankin/species-aware-DNA-LM)
   
-* **DNA language models are powerful predictors of genome-wide variant effects**
-  
-  [![](https://img.shields.io/badge/PNAS_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.pnas.org/doi/abs/10.1073/pnas.2311219120?af=R)
-  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F0a04d0f9ffc0d30157dea059abbf344c681908ed%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
-  [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/songlab-cal/gpn)
-  [![Stars](https://img.shields.io/github/stars/songlab-cal/gpn?color=yellow&style=social)](https://github.com/songlab-cal/gpn)
 
 * **DNA language models are powerful predictors of genome-wide variant effects**
   
-  [![](https://img.shields.io/badge/PNAS_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.pnas.org/doi/full/10.1073/pnas.2311219120)
+  [![](https://img.shields.io/badge/PNAS_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.pnas.org/doi/full/10.1073/pnas.2311219120)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F9d97192850cf8265d8ea38533274be6f970d7bbe%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/songlab-cal/gpn)
   [![Stars](https://img.shields.io/github/stars/songlab-cal/gpn?color=yellow&style=social)](https://github.com/songlab-cal/gpn)
