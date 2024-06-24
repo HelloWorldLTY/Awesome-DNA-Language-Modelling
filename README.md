@@ -1,12 +1,12 @@
 <h1 align="center">
-🧬Awesome DNA Sequence Modelling papers
+🧬Awesome DNA Sequence Modelling Papers
 </h1>
 <div align="center">
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div>
 
-The repository is a collection of papers focusing on DNA sequence modelling.
+The repository is a collection of papers/projects focusing on DNA sequence modelling.
 
 If you'd like to add a paper or a resource, please create a pull request or open an issue!
 
@@ -26,19 +26,46 @@ The following logo represents:
 
 ![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555) model link
 
-Papers are ranked chronologically.
+Papers are ranked randomly.
 
 ### <code>Seuqnece-to-functions</code>
 
+* **Sequential regulatory activity prediction across chromosomes with convolutional neural networks**
+  
+  [![](https://img.shields.io/badge/Genome_Research_2018-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://genome.cshlp.org/content/28/5/739.long)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F09f804b59c8fc356273f98b273290ad6fbdb443b%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/calico/basenji)
+  [![Stars](https://img.shields.io/github/stars/calico/basenji?color=yellow&style=social)](https://github.com/calico/basenji)
 
+* **Cross-species regulatory sequence activity prediction**
+  
+  [![](https://img.shields.io/badge/PLOS_Comp_Bio_2020-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008050)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fed7b379795a2ea2ce363f297cdee65b981a886ec%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/calico/basenji)
+  [![Stars](https://img.shields.io/github/stars/calico/basenji?color=yellow&style=social)](https://github.com/calico/basenji)
 
-
-* **(Enformer) Effective gene expression prediction from sequence by integrating long-range interactions**
+* **Effective gene expression prediction from sequence by integrating long-range interactions**
   
   [![](https://img.shields.io/badge/Nature_Methods_2021-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41592-021-01252-x)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fe12e837cb2e9baeaefdcab06fe1c75add8f46389%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/lucidrains/enformer-pytorch)
   [![Stars](https://img.shields.io/github/stars/lucidrains/enformer-pytorch?color=yellow&style=social)](https://github.com/lucidrains/enformer-pytorch)
+
+
+
+* **Predicting RNA-seq coverage from DNA sequence as a unifying model of gene regulation**
+  
+  [![](https://img.shields.io/badge/Biorxiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2023.08.30.555582v1.full.pdf)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F8a8125dce54eed4bef35d059ce66ed01cb885ce0%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+ [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/calico/borzoi)
+  [![Stars](https://img.shields.io/github/stars/calico/borzoi?color=yellow&style=social)](https://github.com/calico/borzoi)
+
+* **gRELU**
+
+    [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/Genentech/gReLU)
+  [![Stars](https://img.shields.io/github/stars/Genentech/gReLU?color=yellow&style=social)](https://github.com/Genentech/gReLU)
+
+
   
 
 
@@ -102,9 +129,9 @@ Papers are ranked chronologically.
   [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/songlab-cal/gpn)
   [![Stars](https://img.shields.io/github/stars/songlab-cal/gpn?color=yellow&style=social)](https://github.com/songlab-cal/gpn)
 
-* **GPN-MSA: an alignment-based DNA language model for genome-wide variant effect prediction**
+* **DNA language models are powerful predictors of genome-wide variant effects**
   
-  [![](https://img.shields.io/badge/BioRxiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2023.10.10.561776v1.full.pdf)
+  [![](https://img.shields.io/badge/PNAS_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.pnas.org/doi/full/10.1073/pnas.2311219120)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F9d97192850cf8265d8ea38533274be6f970d7bbe%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/songlab-cal/gpn)
   [![Stars](https://img.shields.io/github/stars/songlab-cal/gpn?color=yellow&style=social)](https://github.com/songlab-cal/gpn)
@@ -171,3 +198,6 @@ Papers are ranked chronologically.
 
 
 
+## Acknowledgement
+
+We refer the format of readme file based on [Awesome-Bio-Foundation-Models](https://github.com/apeterswu/Awesome-Bio-Foundation-Models). Thanks for their work!
