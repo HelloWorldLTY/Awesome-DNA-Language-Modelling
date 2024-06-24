@@ -1,2 +1,173 @@
-# Awesome-DNA-Sequence-Modelling
-This is a repo for papers/projects focusing on DNA sequence modelling
+<h1 align="center">
+🧬Awesome DNA Sequence Modelling papers
+</h1>
+<div align="center">
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+</div>
+
+The repository is a collection of papers focusing on DNA sequence modelling.
+
+If you'd like to add a paper or a resource, please create a pull request or open an issue!
+
+
+## Table of Content
+- [Models](#models)
+  - [seuqnece-to-functions](#dna--gene)
+  - [Language Modelling](#rna)
+---
+
+## Models
+The following logo represents:
+
+![](https://img.shields.io/badge/Paper_Publisher-5291C8?style=flat&logo=Read.cv&labelColor=555555) paper publisher with paper link
+
+![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555) code link
+
+![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555) model link
+
+Papers are ranked chronologically.
+
+### <code>Seuqnece-to-functions</code>
+
+
+
+
+* **(Enformer) Effective gene expression prediction from sequence by integrating long-range interactions**
+  
+  [![](https://img.shields.io/badge/Nature_Methods_2021-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41592-021-01252-x)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fe12e837cb2e9baeaefdcab06fe1c75add8f46389%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/lucidrains/enformer-pytorch)
+  [![Stars](https://img.shields.io/github/stars/lucidrains/enformer-pytorch?color=yellow&style=social)](https://github.com/lucidrains/enformer-pytorch)
+  
+
+
+### <code>Language Modelling</code>
+
+* **MoDNA: motif-oriented pre-training for DNA language model**
+  
+  [![](https://img.shields.io/badge/ACM_BCB_2022-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://dl.acm.org/doi/10.1145/3535508.3545512)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F485afddba6de9a5bc6e0104e0b1d463000415c60%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+
+* **Obtaining genetics insights from deep learning via explainable artificial intelligence**
+  
+  [![](https://img.shields.io/badge/Nature_Reviews_Genetics_2022-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41576-022-00532-2)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F5c66aef6f4eb4f2d76199a9abdd591801c804079%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+
+* **Deciphering microbial gene function using natural language processing**
+  
+  [![](https://img.shields.io/badge/Nature_Communications_2022-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41467-022-33397-4)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fa25e9cc63e7660b2dc0659adc5319131d3a1e0ab%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/burstein-lab/genomic-nlp)
+  [![Stars](https://img.shields.io/github/stars/burstein-lab/genomic-nlp?color=yellow&style=social)](https://github.com/burstein-lab/genomic-nlp)
+  
+* **MoDNA: Motif-Oriented Pre-training For DNA Language Model**
+  
+  [![](https://img.shields.io/badge/Nature_Communications_2022-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://dl.acm.org/doi/pdf/10.1145/3535508.3545512)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F485afddba6de9a5bc6e0104e0b1d463000415c60%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  
+* **To Transformers and Beyond: Large Language Models for the Genome**
+  
+  [![](https://img.shields.io/badge/Arxiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2311.07621.pdf)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F374664a1f5704c7451975e3f231a29f439aeaecd%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)  
+
+* **HyenaDNA: Long-Range Genomic Sequence Modeling at Single Nucleotide Resolution**
+  
+  [![](https://img.shields.io/badge/NeurIPS_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://proceedings.neurips.cc/paper_files/paper/2023/file/86ab6927ee4ae9bde4247793c46797c7-Paper-Conference.pdf)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fbfd2b76998a0521c12903ef5ced517adf70ad2ba%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/HazyResearch/hyena-dna)
+  [![Stars](https://img.shields.io/github/stars/HazyResearch/hyena-dna?color=yellow&style=social)](https://github.com/HazyResearch/hyena-dna)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/LongSafari)
+
+  
+* **DNABERT: pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome**
+  
+  [![](https://img.shields.io/badge/Bioinformatics_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://academic.oup.com/bioinformatics/article/37/15/2112/6128680)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc43d9cade31600400a0f62beb5bbcc1b548e009e%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/jerryji1993/DNABERT)
+  [![Stars](https://img.shields.io/github/stars/jerryji1993/DNABERT?color=yellow&style=social)](https://github.com/jerryji1993/DNABERT)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://github.com/jerryji1993/DNABERT?tab=readme-ov-file#32-download-pre-trained-dnabert)
+
+* **Species-aware DNA language modeling**
+  
+  [![](https://img.shields.io/badge/Genome_Biology_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03221-x)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc2a6c2b7c448840a398ba2c386eeedc537446165%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/DennisGankin/species-aware-DNA-LM)
+  [![Stars](https://img.shields.io/github/stars/DennisGankin/species-aware-DNA-LM?color=yellow&style=social)](https://github.com/DennisGankin/species-aware-DNA-LM)
+  
+* **DNA language models are powerful predictors of genome-wide variant effects**
+  
+  [![](https://img.shields.io/badge/PNAS_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.pnas.org/doi/abs/10.1073/pnas.2311219120?af=R)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F0a04d0f9ffc0d30157dea059abbf344c681908ed%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/songlab-cal/gpn)
+  [![Stars](https://img.shields.io/github/stars/songlab-cal/gpn?color=yellow&style=social)](https://github.com/songlab-cal/gpn)
+
+* **GPN-MSA: an alignment-based DNA language model for genome-wide variant effect prediction**
+  
+  [![](https://img.shields.io/badge/BioRxiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2023.10.10.561776v1.full.pdf)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F9d97192850cf8265d8ea38533274be6f970d7bbe%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/songlab-cal/gpn)
+  [![Stars](https://img.shields.io/github/stars/songlab-cal/gpn?color=yellow&style=social)](https://github.com/songlab-cal/gpn)
+  
+* **GENA-LM: A Family of Open-Source Foundational DNA Language Models for Long Sequences**
+  
+  [![](https://img.shields.io/badge/BioRxiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2023.06.12.544594v1.full.pdf)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc74e1671cee1e19c49a5aafbedfe403af471b8ec%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/AIRI-Institute/GENA_LM)
+  [![Stars](https://img.shields.io/github/stars/AIRI-Institute/GENA_LM?color=yellow&style=social)](https://github.com/AIRI-Institute/GENA_LM)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/AIRI-Institute)
+
+* **EpiGePT: a Pretrained Transformer model for epigenomics**
+  
+  [![](https://img.shields.io/badge/BioRxiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2023.07.15.549134v1.full.pdf)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F1f087a43c6c694f7999255103bf0d582fd1dee79%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/ZjGaothu/EpiGePT)
+  [![Stars](https://img.shields.io/github/stars/ZjGaothu/EpiGePT?color=yellow&style=social)](https://github.com/ZjGaothu/EpiGePT)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://health.tsinghua.edu.cn/epigept/download.php)
+
+* **DNAGPT: A Generalized Pre-trained Tool for Multiple DNA Sequence Analysis Tasks**
+  
+  [![](https://img.shields.io/badge/BioRxiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/biorxiv/early/2023/07/12/2023.07.11.548628.full.pdf)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fa05be6905ce7fb4a86dd9b174232362cc50df5af%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/TencentAILabHealthcare/DNAGPT)
+  [![Stars](https://img.shields.io/github/stars/TencentAILabHealthcare/DNAGPT?color=yellow&style=social)](https://github.com/TencentAILabHealthcare/DNAGPT)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://drive.google.com/drive/folders/10UPPx6V13oQW6knuLV7d8SRIA3D6hYor)
+
+* **The Nucleotide Transformer: Building and Evaluating Robust Foundation Models for Human Genomics**
+  
+  [![](https://img.shields.io/badge/BioRxiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2023.01.11.523679v2.full.pdf)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fb06e1a2c84fb3bff03b10283bc863f007f5483b6%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/instadeepai/nucleotide-transformer)
+  [![Stars](https://img.shields.io/github/stars/instadeepai/nucleotide-transformer?color=yellow&style=social)](https://github.com/instadeepai/nucleotide-transformer)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/collections/InstaDeepAI/nucleotide-transformer-65099cdde13ff96230f2e592)
+
+* **DNABERT-2: Efficient Foundation Model and Benchmark for Multi-Species Genome**
+  
+  [![](https://img.shields.io/badge/ICLR_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=oMLQB4EZE1&referrer=%5Bthe%20profile%20of%20Ramana%20V%20Davuluri%5D(%2Fprofile%3Fid%3D~Ramana_V_Davuluri1))
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fd466fad9e1fe3edb1644d8ba8b906383c36abcea%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/MAGICS-LAB/DNABERT_2)
+  [![Stars](https://img.shields.io/github/stars/MAGICS-LAB/DNABERT_2?color=yellow&style=social)](https://github.com/MAGICS-LAB/DNABERT_2)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/zhihan1996/DNABERT-2-117M)
+
+* **DNABERT-S: Learning Species-Aware DNA Embedding with Genome Foundation Models**
+  
+  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2402.08777)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fbc8d58fcb7dbf6cc4942eda901a54412b2018a89%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/MAGICS-LAB/DNABERT_S)
+  [![Stars](https://img.shields.io/github/stars/MAGICS-LAB/DNABERT_S?color=yellow&style=social)](https://github.com/MAGICS-LAB/DNABERT_S)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/zhihan1996/DNABERT-S)
+
+* **Single-cell gene expression prediction from DNA sequence at large contexts**
+  
+  [![](https://img.shields.io/badge/BioRxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/biorxiv/early/2023/07/28/2023.07.26.550634.full.pdf)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F51c85e0c2218d93a064beeccd2745059f1510171%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+
+
+* **Sequence modeling and design from molecular to genome scale with Evo**
+  
+  [![](https://img.shields.io/badge/BioRxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2024.02.27.582234v2.full.pdf)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ff2bc968f5a7036f5c6c29ebd7cfaad9e1a677f4e%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/evo-design/evo)
+
+
+
