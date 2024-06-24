@@ -190,6 +190,13 @@ Papers are ranked randomly.
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ff2bc968f5a7036f5c6c29ebd7cfaad9e1a677f4e%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/evo-design/evo)
 
+* **LucaOne: Generalized Biological Foundation Model with Unified Nucleic Acid and Protein Language**
+  
+  [![](https://img.shields.io/badge/BioRxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2024.05.10.592927v1.full.pdf)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc849d52a5e2391d961111ed488d8872d1f8bae56%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/LucaOne/LucaOne)
+   [![Stars](https://img.shields.io/github/stars/LucaOne/LucaOne?color=yellow&style=social)](https://github.com/LucaOne/LucaOne)
+
 
 
 ## Acknowledgement
